@@ -17,6 +17,8 @@ i may or may not have lost the source so... FEEL FREE TO USE MICROTERM (especial
 
 narrow mode fastfetch image courtesy of my good friend temp3st (realSpectro on github)
 
+wallpaper collection (very high quality trust): [https://github.com/TogiFerretFerret/wallpapers](https://github.com/TogiFerretFerret/wallpapers)
+
 ## not really actively maintained
 csync: [https://github.com/TogiFerretFerret/csync](https://github.com/TogiFerretFerret/csync) 
 
