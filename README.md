@@ -19,6 +19,16 @@ narrow mode fastfetch image courtesy of my good friend temp3st (realSpectro on g
 
 wallpaper collection (very high quality trust): [https://github.com/TogiFerretFerret/wallpapers](https://github.com/TogiFerretFerret/wallpapers)
 
+swaync: [https://github.com/TogiFerretFerret/swaync](https://github.com/TogiFerretFerret/swaync)
+
+rofi: [https://github.com/TogiFerretFerret/rofi](https://github.com/TogiFerretFerret/rofi)
+
+sddm: [https://github.com/TogiFerretFerret/nerv-sddm](https://github.com/TogiFerretFerret/nerv-sddm)
+
+^^ vaguely nerv inspired ig but i wuv da clock!!!!
+
+fish: [https://github.com/TogiFerretFerret/fish-config](https://github.com/TogiFerretFerret/fish-config)
+
 ## not really actively maintained
 csync: [https://github.com/TogiFerretFerret/csync](https://github.com/TogiFerretFerret/csync) 
 
@@ -27,3 +37,10 @@ csync: [https://github.com/TogiFerretFerret/csync](https://github.com/TogiFerret
 tauon: [https://github.com/TogiFerretFerret/tauon](https://github.com/TogiFerretFerret/tauon) 
 
 ^^ fork of super epic project that IS maintained tauon music box. i made some patches and i have... not remembered to merge in the actual official new updates. but it works, so i'll do it eventually
+
+
+btw the quickshell bar has the wallpaper picker included. (`touch /tmp/qs-wallpaper-picker` to open, there's a hpyrland bind that does that \[super-w\])
+
+## abandoned
+
+wlogout: [https://github.com/TogiFerretFerret/wlogout](https://github.com/TogiFerretFerret/wlogout) - i do not use wlogout anymore
