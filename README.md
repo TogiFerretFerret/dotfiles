@@ -11,10 +11,6 @@ nvim dots (super cracked): [https://github.com/TogiFerretFerret/nvim-dots](https
 
 fastfetch (cooked fr): [https://github.com/TogiFerretFerret/fastfetch](https://github.com/TogiFerretFerret/fastfetch)
 
-^^ note: fastfetch is weird because i heavily utilize the `render` command. 
-
-i may or may not have lost the source so... FEEL FREE TO USE MICROTERM (especially because in addition to losing the source the binary is compiled for aarch64 asahi linux... so it's kinda cooked ngl.
-
 narrow mode fastfetch image courtesy of my good friend temp3st (realSpectro on github)
 
 wallpaper collection (very high quality trust): [https://github.com/TogiFerretFerret/wallpapers](https://github.com/TogiFerretFerret/wallpapers)
