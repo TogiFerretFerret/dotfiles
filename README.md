@@ -49,6 +49,11 @@ vaguely nerv inspired ig but i wuv da clock!!!!
 ![wallpaper switcher](screenshots/wallpaper-switcher-1.png)
 ![wallpaper switcher 2](screenshots/wallpaper-switcher-2.png)
 
+### dashboard
+![dashboard clear](screenshots/dashboard-clear.png)
+
+> videos: [cloudy](screenshots/dashboard-cloudy.mp4) · [rainy](screenshots/dashboard-rainy.mp4) · [snowy](screenshots/dashboard-snowy.mp4) · [thunder](screenshots/dashboard-thunder.mp4)
+
 ### quickshell
 ![quickshell mpris](screenshots/quickshell-mpris.png)
 ![quickshell karaoke](screenshots/quickshell-karaoke.png)
