@@ -1,0 +1,24 @@
+[submodule "hypr"]
+	path = hypr
+	url = https://github.com/TogiFerretFerret/hypr
+[submodule "quickshell"]
+	path = quickshell
+	url = https://github.com/TogiFerretFerret/quickshell
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/TogiFerretFerret/nvim-dots
+[submodule "fastfetch"]
+	path = fastfetch
+	url = https://github.com/TogiFerretFerret/fastfetch
+[submodule "swaync"]
+	path = swaync
+	url = https://github.com/TogiFerretFerret/swaync
+[submodule "rofi"]
+	path = rofi
+	url = https://github.com/TogiFerretFerret/rofi
+[submodule "sddm"]
+	path = sddm
+	url = https://github.com/TogiFerretFerret/nerv-sddm
+[submodule "fish"]
+	path = fish
+	url = https://github.com/TogiFerretFerret/fish-config
