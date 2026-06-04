@@ -22,3 +22,15 @@
 [submodule "fish"]
 	path = fish
 	url = https://github.com/TogiFerretFerret/fish-config
+[submodule "matugen"]
+	path = matugen
+	url = https://github.com/TogiFerretFerret/matugen
+[submodule "ghostty"]
+	path = ghostty
+	url = https://github.com/TogiFerretFerret/ghostty
+[submodule "mpv"]
+	path = mpv
+	url = https://github.com/TogiFerretFerret/mpv
+[submodule "yazi"]
+	path = yazi
+	url = https://github.com/TogiFerretFerret/yazi
